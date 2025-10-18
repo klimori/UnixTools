@@ -5,6 +5,10 @@ UnixTools Assistant combines administrative control, system recovery, and diagno
 
 ---
 
+![UnixTools Screenshot](https://github.com/klimori/UnixTools/blob/main/Screnshoot.png?raw=true)
+
+---
+
 ## 🔓 System Unlock
 
 Unlock essential Windows features that may have been disabled by policies or malware:
