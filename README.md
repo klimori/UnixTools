@@ -5,7 +5,7 @@ UnixTools Assistant combines administrative control, system recovery, and diagno
 
 ---
 
-![UnixTools Screenshot]([https://github.com/klimori/UnixTools/blob/main/Screenshot_v1.1.0.png?raw=true])
+![UnixTools Screenshot](https://github.com/klimori/UnixTools/blob/main/Screenshot_v1.1.0.png?raw=true)
 
 ---
 
